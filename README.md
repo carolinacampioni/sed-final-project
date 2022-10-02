@@ -1,4 +1,4 @@
-##Design Pattern Utilizado: Arquitetura MVC
+# Design Pattern Utilizado: Arquitetura MVC
 
 Explicando o MVC: Primeiro de tudo, MVC significa Model-View-Controller. A camada de Modelo (Model), da qual fazem parte as classes de domínio, tem como função organizar os dados e garantir que as regras do negócio sejam atendidas. As classes de domínio podem ser consideradas como o alicerce da aplicação. 
 á a camada de Visão (View), é a camada disponível para o usuário interagir com o sistema. Ou seja, é a camada responsável por apresentar os dados para o usuário, e permitir que ele utilize as funcionalidades disponíveis no sistema. No Grails, alguns componentes presentes nessa camada são as views (arquivos gsp), as taglibs e os renderers, entre outros.
@@ -14,19 +14,17 @@ O framework escolhido(grails) cria um banco in memory, sendo assim, não precisa
 Evidências: 
 
 Criação:
- https://imgbox.com/eH4O1ofY
-
+![1](https://user-images.githubusercontent.com/44068046/193434991-30665be7-5bc7-49c9-b942-d741a30ce81c.jpg)
 
 Exclusão:
+![2](https://user-images.githubusercontent.com/44068046/193434995-d0853119-0d75-4f56-adf3-0b8703bb3bd3.jpg)
 
+Registro existente:
+![3](https://user-images.githubusercontent.com/44068046/193435007-02e5b59b-9a78-4e23-b1cc-810b5902b0d4.jpg)
 
-
-
-
-
-
-Registro existente:  
 Registro não preenchido:
- 
+![4](https://user-images.githubusercontent.com/44068046/193435012-04ce465d-22b9-4cb5-a6c3-b85fe4bb39bf.jpg)
 
 Banco in memory junto com a url: 
+![5](https://user-images.githubusercontent.com/44068046/193435028-b73b8254-1467-4273-8bcc-762998389b73.jpg)
+
