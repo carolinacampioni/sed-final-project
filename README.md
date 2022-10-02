@@ -1,4 +1,4 @@
-Design Pattern Utilizado: Arquitetura MVC
+##Design Pattern Utilizado: Arquitetura MVC
 
 Explicando o MVC: Primeiro de tudo, MVC significa Model-View-Controller. A camada de Modelo (Model), da qual fazem parte as classes de domínio, tem como função organizar os dados e garantir que as regras do negócio sejam atendidas. As classes de domínio podem ser consideradas como o alicerce da aplicação. 
 á a camada de Visão (View), é a camada disponível para o usuário interagir com o sistema. Ou seja, é a camada responsável por apresentar os dados para o usuário, e permitir que ele utilize as funcionalidades disponíveis no sistema. No Grails, alguns componentes presentes nessa camada são as views (arquivos gsp), as taglibs e os renderers, entre outros.
