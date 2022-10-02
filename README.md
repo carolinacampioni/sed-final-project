@@ -14,7 +14,7 @@ O framework escolhido(grails) cria um banco in memory, sendo assim, não precisa
 Evidências: 
 
 Criação:
- https://drive.google.com/file/d/1YBBMY5SPL17rkmznX7ULFpCNdsIPbWcv/view?usp=sharing
+ 
 
 
 Exclusão:
